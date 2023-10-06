@@ -1,0 +1,75 @@
+#background{
+    min-height: 1050px;
+    width: 100%;
+    
+   
+}
+#top{
+    height: 35px;
+    width: 100%;
+    background:#2c7ad6;
+   line-height: 35px;
+   padding: 0px 20px 9px 100px;
+   box-sizing: border-box;
+    word-spacing:10px ;
+    
+}
+#menu{
+    height: 1020px;
+    width: 100%;
+    background-color: black;
+    /*background-image: url('journal.jpg');*/
+    
+   
+}
+
+#menu m1{
+    height: 200px;
+
+}
+
+#slider{
+    height:640px;
+    width: 100%;
+    background:url(yale\ library.JPG);
+    background-size: cover;
+    background-attachment: fixed;
+   /* animation-name:slider;
+    animation-duration: 20s;
+    animation-iteration-count:infinite ;
+   animation-delay: 3s;*/
+}
+/*
+@keyframes slider{
+   
+    from{
+        background:url(image/4.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    to{
+        background:url(image/4.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+    } 
+}
+*/
+ 
+
+
+#down{
+    height: 300px;
+    width: 100%;
+    margin-top: 10px;
+    background:#2c7ad6;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+.footer{
+    height: 20px;
+    width: 100%;
+    background: black;
+    color: white;
+    text-align: center;
+}
