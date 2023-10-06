@@ -20,3 +20,6 @@ The Library Management System is a software application designed to efficiently 
 <img width="937" alt="Screenshot-4" src="https://github.com/nirajccs1999/Library_management_system/assets/121447767/fd78d0f4-2272-4c6c-8ed2-3b506945783a">
 b-bf67-44c8-9260-fb7edfb61b9a">
 <img width="959" alt="Screenshot-6" src="https://github.com/nirajccs1999/Library_management_system/assets/121447767/91e4fc5b-45db-4ab7-be9f-83281111795b">
+
+<img width="956" alt="Screenshot -7" src="https://github.com/nirajccs1999/Library_management_system/assets/121447767/37bf555e-4fc1-4279-945d-65c97a41e3f1">
+
